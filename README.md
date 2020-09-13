@@ -1,2 +1,2 @@
-# stock-price-prediction
+# stock_price_prediction
 stock price prediction using Python
